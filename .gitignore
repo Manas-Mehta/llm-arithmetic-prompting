@@ -5,3 +5,4 @@ __pycache__/
 results/
 hw3env/
 .env
+.DS_Store
